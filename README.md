@@ -96,4 +96,4 @@ Refer to docs/requirements.md
 
 ✅ Complete Documentation & Diagrams
 
-🛡️ License
+
